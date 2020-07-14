@@ -1,1 +1,1 @@
-# javscript-display-day-and-time
+# javscript-LetsUpgrade-DAY1
